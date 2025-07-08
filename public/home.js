@@ -117,7 +117,17 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>You’re welcome to Official verified financial Management, how can we help you and who gave you our contact ? and do as well  to follow the instructions properly..</p>
+            <p>Official management Sarinacross helps to handle the business aspects of the artist's career, including contract negotiations, booking gigs, and liaising with record labels. They also play a crucial role in marketing and promoting the artist, helping to build their brand and increase visibility in the industry.
+
+The Management is responsible for the following:
+
+1: Booking/scheduling.
+2: Gigs/tours/iCloud CDs and appearances. 
+3: Resolve issues with pending transactions/payments and provide a guide on security verification and compliance.
+4. Assisting with technical problems.
+5. Sign-up is totally free. 
+
+You can typically contact the official Sarina Cross Management through here.</p>
           </div>
         `
         break
